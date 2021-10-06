@@ -8,7 +8,7 @@
 
 - 🔭 Currently studying at Amrita School of Engineering, Chennai
 - 🌱 I’m so lazy that I do things correct in the first attempt 🤣
-- 👯 I’m looking forward to share and experience more stuffs
+- 👯 I’m looking forward to share and experience more stuff
 - ⚡ Fun fact: I love to make music and edit videos.
 
 
