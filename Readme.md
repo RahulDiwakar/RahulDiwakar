@@ -1,63 +1,119 @@
-### Hello there! This is Rahul Diwakar &nbsp;&nbsp;&nbsp;<img src="https://media.tenor.com/images/3a4f936cd0e0b967fa24054084ccdbd9/tenor.gif" width="70px"><img>
+<h1 align="center">Hey 👋 I'm Rahul Diwakar</h1>
+<h3 align="center">AI Engineer @ Allianz Technology • Generative AI Builder • Full Stack Developer • Gamer 🎮 • Music Producer 🎧</h3>
 
-<br />
-
-## I'm a Front-End and Back-end Developer, Coder, Gamer, Producer and a Weeb!!
-
-<br />
-
-- 🔭 Currently studying at Amrita School of Engineering, Chennai
-- 🌱 I’m so lazy that I do things correct in the first attempt 🤣
-- 👯 I’m looking forward to share and experience more stuff
-- ⚡ Fun fact: I love to make music and edit videos.
-
-
-### Connect with me:
-
-
-
-
-<img align="left" alt="codeSTACKr | Twitter" width="50px" src="https://i.pinimg.com/originals/3e/35/70/3e3570372b5ff57616181e96b3fb6216.gif" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="50px"  height="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
-<img align="left" alt="codeSTACKr | Instagram" width="50px"  height="50px" src="https://cdn.dribbble.com/users/58386/screenshots/10921234/media/da75606cc4a00595342fd5b40411b624.gif" />
-
-<br />
-
-<br />
-
-<br />
-
-
-### Languages and Tools: 
-
-
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Java" width="26px" height="26px" src="https://cdn.vox-cdn.com/thumbor/E5DWi80rhjNBn1zQwrEjX0dnkLY=/0x0:640x427/920x613/filters:focal(0x0:640x427):format(webp)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/220px-C_Programming_Language.svg.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+<p align="center">
+  <img src="https://media.tenor.com/bJbfB.gif" width="180px"/>
+</p>
 
 ---
 
+## 🚀 About Me
+
+- 🏢 AI Engineer at Allianz Technology  
+- 🤖 Building production-grade AI systems using LLMs & Agentic frameworks  
+- 🧠 Specialized in Generative AI, NLP, Risk Intelligence & Intelligent Automation  
+- ⚡ I try to be so lazy that I design systems correctly the first time 😌  
+- 🎬 I produce music and edit videos when I'm not engineering intelligent systems  
+
+---
+
+## 🔥 What I Work On
+
+### 🧾 AI-Powered Risk Intelligence Systems
+- Data-driven document risk assessment  
+- Fraud probability modeling & filtering logic optimization  
+- Embeddings + RAG pipelines  
+- FastAPI microservices architecture  
+- Dockerized production deployment  
+
+### 🎙️ AI Speech-to-Text & Summarization Systems
+- Whisper-powered transcription  
+- GPT-based contextual summarization  
+- REST API-first architecture  
+- Scalable containerized services  
+
+### 🧠 Agentic AI Applications
+- LangChain / LangGraph implementations  
+- Multi-step reasoning pipelines  
+- Context-aware AI assistants  
+- Enterprise-grade AI backend systems  
+
+---
+
+## 🧠 Core Expertise
+
+### 🤖 AI / ML
+- Generative AI Systems  
+- Retrieval-Augmented Generation (RAG)  
+- LangChain / LangGraph  
+- OpenAI API & Embeddings  
+- NLP & Document Intelligence  
+- Vector Databases  
+
+### 🌐 Full Stack Engineering
+- React / Next.js / Vite  
+- FastAPI  
+- Node.js  
+- MongoDB / PostgreSQL / MySQL  
+- Tailwind CSS / MUI / AlignUI  
+
+### ☁️ DevOps & Cloud
+- Docker  
+- Azure  
+- REST API Design  
+- Production Deployment Pipelines  
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"/>
+  <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RahulDiwakar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RahulDiwakar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RahulDiwakar&layout=compact&theme=tokyonight&count_private=true&hide_border=true" />
+</p>
 
 
-<details open>
-         <summary> <b> GitHub stats 📊</b>  </summary>  <br />
-          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulDiwakar&show_icons=true&theme=material-palenight&" alt="stats" /></p>               </details>
-          
- -----
- <br />
- <p align="left">
-    <img alt="Lasya's Top Languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=RahulDiwakar&langs_count=5&theme=material-palenight&hide_border=true /></a>
+---
+
+## 🎯 2026 Focus
+
+- 🚀 Scaling enterprise AI solutions  
+- 🧠 Designing multi-agent AI architectures  
+- 📚 Building AI-powered EdTech systems  
+- 💡 Turning AI POCs into production SaaS products  
+
+---
+
+## 🌍 Let's Connect
+
+- 💼 LinkedIn  
+- 🐦 Twitter  
+- 📸 Instagram  
+
+---
+
+⭐ Engineering intelligent systems that solve real-world problems.
